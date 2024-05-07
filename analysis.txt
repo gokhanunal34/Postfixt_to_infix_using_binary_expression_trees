@@ -1,0 +1,9 @@
+#Time Complexity Analysis for Project 5
+MakeEmpty function has a O(N) time complexity. The reason is that it is a 
+recursive algorithm, and it calls itself N times in each recursion in the 
+worst case scenario. So there are no nested recursive calls(I mean 
+more than 1 call) in the function which would have affected the time
+complexity a great deal. In this scenario the recursive function 
+calls itself N times; thus the time complexity is O(N).
+
+
