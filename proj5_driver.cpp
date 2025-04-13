@@ -1,13 +1,5 @@
 // *********************************************************************************
-// * Author of this project: Gokhan Unal. There are NO generative AI used in this  *
-// * program; including but not limited to: Chatgpt, Google's AI, Github Co-pilot  *
-// * or any other cheating machine out there.(not that they are very capable)      *
-// * I hate Sam Altman (a person who promotes his religion in any platform         *
-// * he is active on), and any person who promotes a religion all the time:)       *
-// * I firmly refuse any association with                                          *
-// * Sam Altman's or Zuckerberg's AI firms, or the likes of them. I will do this   *
-// * for a living, so I am ready 24/7 on my computer to answer any random questions*
-// * on my homework or my coding knowledge.                                        *
+// * Author of this project: Gokhan Unal.                                          *
 // * Project name: BET(Binary Expression Tree) project                             *
 // * Class: COP4530 - Dr. Gaitros - Due: March 22th 2024                           *
 // * Assumptions: The only thing missing is the redundant paranthesis removal,     *
